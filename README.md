@@ -11,7 +11,7 @@ Front end is React/Redux app including react-router, and it's own packages.
 Install dependencies and run the front end app on ```localhost:8080```.
  From the project root run:
 <pre>
-	> npm install>
+	> npm install
 	> npm start
 </pre>
 
