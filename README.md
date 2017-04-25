@@ -16,7 +16,8 @@ Install dependencies and run the front end app on ```localhost:8080```.
 </pre>
 
 #### Node Authentication server
-Make sure you have MongoDB installed.
+Make sure you have MongoDB installed and that you've created a config.js file in server root. please see server readme for details. 
+
 Run mongo:
 <code>
 	> mongod
