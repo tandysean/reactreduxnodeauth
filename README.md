@@ -26,7 +26,7 @@ Run mongo:
 The node authentication server is it's own project. Provides api to front end app for authentication. Install dependencies and run for development
 <code>
 	> npm install
-	> nodemon
+	> npm run dev
 </code>
 
 Nodeman will auto-refresh changes to server, Webpack will live refresh the front end whenever you make changes. Unit tests have not been implemented, but ```mocha/chai``` test suite is ready to go.
